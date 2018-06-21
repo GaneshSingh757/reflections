@@ -4,23 +4,42 @@ A hidden file named .git is generated which keeps record of commits which is imp
 
 
 
-How is the staging area different from the working directory and the repository?
+How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It gives us option of what to commit and when to commit.
 
 
-What value do you think it offers?
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+only add contents to staging area which make a logical change.
+
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+branches are great for experimentation.
+
+
+
 How do the diagrams help you visualize the branch structure?
+
+diagram helps us see how branches are formed and working.
+
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+Add a new feature to an already existing working project. In the diagram master branch and other branch goes in different direction beacause they don't affect
+each other before the merge.
+
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges 
 manually?
+
+git automatic merging may merg two things which won't work together while at the same time it does reduce manual work.
