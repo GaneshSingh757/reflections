@@ -14,3 +14,7 @@ fork is copying one github repo from another account to own github account for u
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 We can locally see what changes were made by other collaborators on github.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without github I used google drive to save all files and then collaborated with other people by doing conversations which was really not practical.
